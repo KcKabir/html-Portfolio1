@@ -1,0 +1,17 @@
+h1 {
+    font-family:'Arial', cursive;
+    text-transform: uppercase;
+}
+body{
+    color:violet;
+    background-color: black;
+    text-align: center;
+}
+img{
+    width: 50%;
+    height:40%;
+}
+div{
+    width:50%;
+    margin-left:25%;   
+}
